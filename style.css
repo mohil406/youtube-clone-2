@@ -1,0 +1,124 @@
+i{
+    font-size: 2rem;
+    padding-left: 2rem;
+    display: inline;
+}
+h1{
+    display: inline;
+}
+.typing{
+    border-style: solid;
+    display: inline-block;
+    width: 40%;
+    height: 2.2rem;
+    border-color: gray;
+    position: relative;
+    left: 9rem;
+    top: 0.5rem;
+}
+.fas{
+    position: relative;
+    left: 4rem;
+    text-align: center;
+
+}
+.fa-microphone{
+    position: relative;
+    left: 5rem;
+    border-style: solid;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    border-radius: 100%;
+    background-color: grey;
+}
+.bars{
+    position: relative;
+    left: 78%;
+    bottom: 2.9rem;
+}
+img{
+    width: 3%;
+    border-radius: 100%;
+    margin-left: 2rem;
+    position: relative;
+    top: 0.4rem;
+    
+}
+p{
+    margin-left: 1.5rem;
+    position: relative;
+    bottom: 0.8rem;
+    left: 0.1rem;
+    font-size: 0.8rem;
+}
+.short{
+    font-size: 1.2rem;
+}
+.middle{
+    position: relative;
+    bottom: 1.3rem;
+}
+.image{
+    width: 2%;
+    border-radius: 0%;
+    position: relative;
+    bottom: 0.7rem;
+}
+.move{
+    position: relative;
+    left: 10%;
+    bottom: 18rem;
+}
+button{
+    border-radius: 12px;
+    font-size: 1.1rem;
+    margin-left: 0.5rem;
+}
+video{
+    width: 25%;
+    border-radius: 12px;
+}
+.video{
+    position: relative;
+    left: 10%;
+    bottom: 15.5rem;
+    display: inline-block;
+}
+.block{
+    position: relative;
+    right: 22.5rem;
+    top: 2.5rem;
+}
+h5{
+    display: inline-block;
+    position: relative;
+    top: 5.5rem;
+    right: 22.4rem;
+    font-size: 1rem;
+}
+.moving{
+    
+    margin-top: 1rem;
+    margin-right: 30%;
+    color: gray;
+}
+.second{
+    position: relative;
+    left: 30%;
+    bottom: 12.7rem;
+}
+.third{
+    position: relative;
+    left: 60%;
+    bottom: 25.2rem;
+}
+.container{
+    position: relative;
+    bottom: 38rem;
+}
+.containers{
+    position: relative;
+    bottom: 60.5rem;
+}
